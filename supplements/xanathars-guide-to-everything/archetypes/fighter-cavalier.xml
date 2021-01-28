@@ -36,7 +36,7 @@
 	</element>
 	<element name="Bonus Proficiency" type="Archetype Feature" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_FEATURE_CAVALIER_BONUS_PROFICIENCY">
 		<description>
-			<p>When you choose this barchetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.</p>
+			<p>When When you choose this barchetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
@@ -46,7 +46,7 @@
 	<element name="Bonus Proficiency (Proficiency)" type="Archetype Feature" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_FIGHTER_CAVALIER_PROFICIENCY">
 		<compendium display="false" />
 		<description>
-			<p>You gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion.</p>
+			<p>You gain proficiency in one one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion.</p>
 			<div class="reference">
 				<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_CAVALIER_BONUS_PROFICIENCY" />
 			</div>
